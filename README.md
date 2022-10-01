@@ -25,4 +25,6 @@ In this project, we developed an application using concepts of Object-Oriented P
 
 # Screenshots
 # Program
-- ![Homepage](https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture1.png, https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture2.png, https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture3.png)
+- ![Picture1](https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture1.png)
+- ![Picture2](https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture2.png)
+- ![Picture3](https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture3.png)
