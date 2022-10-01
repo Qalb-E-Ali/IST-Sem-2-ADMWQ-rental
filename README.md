@@ -25,4 +25,4 @@ In this project, we developed an application using concepts of Object-Oriented P
 
 # Screenshots
 # Program
-- ![Homepage](https://github.com/sydalirza/Ghoomo-Pakistan/blob/main/Web%20capture_1-10-2022_124344_.jpeg)
+- ![Homepage](https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture1.png, https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture2.png, https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture3.png)
