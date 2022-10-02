@@ -23,7 +23,7 @@ In this project, we developed an application using concepts of Object-Oriented P
 -	Conditional Statements: If Else and Switch statements are used in our program in order to process the users’ different inputs.
 -	Go-to Functions: Go-to functions are used in case the user enters an incorrect input or chooses to restart.        
 
-#Screenshots
+# Screenshots
 # Program
 - ![Picture1](https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture1.png)
 - ![Picture2](https://github.com/sydalirza/Car-Rental-Service-V2/blob/main/OOP_Picture2.png)
